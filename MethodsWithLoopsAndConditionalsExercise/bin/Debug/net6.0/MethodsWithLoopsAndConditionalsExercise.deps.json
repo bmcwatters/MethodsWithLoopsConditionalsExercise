@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MethodsWithLoopsAndConditionalsExercise/1.0.0": {
+        "runtime": {
+          "MethodsWithLoopsAndConditionalsExercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MethodsWithLoopsAndConditionalsExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
